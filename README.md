@@ -85,14 +85,12 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
+
 
 ```sh
   cd my-folder
-  git clone git@github.com: https://github.com:AleMdta/hello-microverse.git
-```
---->
+  git clone git@github.com: https://github.com:AleMdta/hello-microverse-project.git
+
 
 
 ## 👥 Authors <a name="authors"></a>
